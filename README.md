@@ -1,1 +1,1 @@
-This project is based on one of my school project. i have created this project to showcase and enhnced what i analyse in my school project.
+This project is based on one of my school projects. I have created this project to showcase and enhance what I analysed in my school project.
